@@ -1,0 +1,459 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{book:AI}{book}{}
+    \name{author}{2}{}{%
+      {{hash=}{%
+         family={蔡自兴},
+         familyi={\bibinitperiod},
+      }}%
+      {{hash=}{%
+         family={徐光佑},
+         familyi={\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{清华大学出版社}}%
+    }
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{9787302068372}
+    \field{title}{{人工智能及其应用（第三版）}}
+    \field{year}{2003}
+  \endentry
+
+  \entry{article:Internet}{article}{}
+    \name{author}{3}{}{%
+      {{hash=}{%
+         family={杜小勇},
+         familyi={\bibinitperiod},
+      }}%
+      {{hash=}{%
+         family={李曼},
+         familyi={\bibinitperiod},
+      }}%
+      {{hash=}{%
+         family={王大治},
+         familyi={\bibinitperiod},
+      }}%
+    }
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{语义Web与本体研究综述}
+    \field{journaltitle}{计算机应用}
+    \field{year}{2004}
+  \endentry
+
+  \entry{DBLP:YAGO2}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HJ}{%
+         family={Hoffart},
+         familyi={H\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SFM}{%
+         family={Suchanek},
+         familyi={S\bibinitperiod},
+         given={Fabian\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BK}{%
+         family={Berberich},
+         familyi={B\bibinitperiod},
+         given={Klaus},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Weikum},
+         familyi={W\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJSFMBKWG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{28\bibrangedash 61}
+    \field{title}{{YAGO2: A Spatially and Temporally Enhanced Knowledge Base
+  from Wikipedia}}
+    \field{volume}{194}
+    \field{journaltitle}{Artif. Intell.}
+    \field{year}{2013}
+  \endentry
+
+  \entry{url:KnowledgeGraphDef}{book}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{https://baike.baidu.com/item/知识图谱}
+  \endentry
+
+  \entry{url:Freebase}{book}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{http://www.freebase.com/}
+  \endentry
+
+  \entry{url:RDF}{book}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{http://www.w3.org/RDF/}
+  \endentry
+
+  \entry{url:sparql}{book}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{http://www.w3.org/TR/rdf-sparql-query/}
+  \endentry
+
+  \entry{url:KnowledgeDef}{book}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{http://zh.wikipedia.org/zh-cn/知识}
+  \endentry
+
+  \entry{DBLP:DBpedia}{article}{}
+    \name{author}{11}{}{%
+      {{hash=LJ}{%
+         family={Lehmann},
+         familyi={L\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=IR}{%
+         family={Isele},
+         familyi={I\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jakob},
+         familyi={J\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jentzsch},
+         familyi={J\bibinitperiod},
+         given={Anja},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kontokostas},
+         familyi={K\bibinitperiod},
+         given={Dimitris},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MPN}{%
+         family={Mendes},
+         familyi={M\bibinitperiod},
+         given={Pablo\bibnamedelima N.},
+         giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Hellmann},
+         familyi={H\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Morsey},
+         familyi={M\bibinitperiod},
+         given={Mohamed},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=vKP}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Kleef},
+         familyi={K\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Auer},
+         familyi={A\bibinitperiod},
+         given={S{\"{o}}ren},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Bizer},
+         familyi={B\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJIRJMJAKDMPNHSMMKPvASBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{2}
+    \field{pages}{167\bibrangedash 195}
+    \field{title}{{DBpedia - A large-scale, multilingual knowledge base
+  extracted from Wikipedia}}
+    \field{volume}{6}
+    \field{journaltitle}{Semantic Web}
+    \field{year}{2015}
+  \endentry
+
+  \entry{DBLP:YAGO3}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MF}{%
+         family={Mahdisoltani},
+         familyi={M\bibinitperiod},
+         given={Farzaneh},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Biega},
+         familyi={B\bibinitperiod},
+         given={Joanna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SFM}{%
+         family={Suchanek},
+         familyi={S\bibinitperiod},
+         given={Fabian\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MFBJSFM1}
+    \strng{fullhash}{MFBJSFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{{CIDR}}
+    \field{title}{{YAGO3: A Knowledge Base from Multilingual Wikipedias}}
+    \field{year}{2015}
+  \endentry
+
+  \entry{DBLP:YAGO}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SFM}{%
+         family={Suchanek},
+         familyi={S\bibinitperiod},
+         given={Fabian\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kasneci},
+         familyi={K\bibinitperiod},
+         given={Gjergji},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Weikum},
+         familyi={W\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SFMKGWG1}
+    \strng{fullhash}{SFMKGWG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{203\bibrangedash 217}
+    \field{title}{{YAGO: A Large Ontology from Wikipedia and WordNet}}
+    \field{volume}{6}
+    \field{journaltitle}{J. Web Sem.}
+    \field{year}{2008}
+  \endentry
+
+  \entry{DBLP:CNDBpedia}{inproceedings}{}
+    \name{author}{7}{}{%
+      {{hash=XB}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Bo},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Jiaqing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=XC}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Chenhao},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Bin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Cui},
+         familyi={C\bibinitperiod},
+         given={Wanyun},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=XY}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Yanghua},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{XB+1}
+    \strng{fullhash}{XBXYLJXCLBCWXY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{X}
+    \field{sortinithash}{X}
+    \field{booktitle}{{IEA/AIE}}
+    \field{pages}{428\bibrangedash 438}
+    \field{title}{{CN-DBpedia: A Never-Ending Chinese Knowledge Extraction
+  System}}
+    \field{year}{2017}
+  \endentry
+
+  \entry{VLDBJ:gStore}{article}{}
+    \name{author}{6}{}{%
+      {{hash=ZL}{%
+         family={Zou},
+         familyi={Z\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=OMT}{%
+         family={{\"{O}}zsu},
+         familyi={{\"{O}}\bibinitperiod},
+         given={M.\bibnamedelima Tamer},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={Xuchuan},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Ruizhe},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZD}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Dongyan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZL+1}
+    \strng{fullhash}{ZLOMTCLSXHRZD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \verb{doi}
+    \verb 10.1007/s00778-013-0337-7
+    \endverb
+    \field{number}{4}
+    \field{pages}{565\bibrangedash 590}
+    \field{title}{{gStore: A Graph-based SPARQL Query Engine}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/s00778-013-0337-7
+    \endverb
+    \field{volume}{23}
+    \field{journaltitle}{{VLDB} J.}
+    \field{year}{2014}
+  \endentry
+
+  \entry{VLDB2011:gStore}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZL}{%
+         family={Zou},
+         familyi={Z\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Mo},
+         familyi={M\bibinitperiod},
+         given={Jinghui},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=OMT}{%
+         family={{\"{O}}zsu},
+         familyi={{\"{O}}\bibinitperiod},
+         given={M.\bibnamedelima Tamer},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=ZD}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Dongyan},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZL+1}
+    \strng{fullhash}{ZLMJCLOMTZD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{number}{8}
+    \field{pages}{482\bibrangedash 493}
+    \field{title}{{gStore: Answering SPARQL Queries via Subgraph Matching}}
+    \verb{url}
+    \verb http://www.vldb.org/pvldb/vol4/p482-zou.pdf
+    \endverb
+    \field{volume}{4}
+    \field{journaltitle}{{PVLDB}}
+    \field{year}{2011}
+  \endentry
+\enddatalist
+\endinput

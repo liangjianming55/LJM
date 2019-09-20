@@ -1,0 +1,19 @@
+\chapter{gStoreD}\label{sec:gStoreD}
+
+
+
+\begin{figure}
+\begin{center}
+   \includegraphics[width=12cm]{./figures/part3/distributed_data_graph.pdf}
+    \caption{分布式RDF数据图}
+   \label{fig:distributeddatagraph}
+\end{center}
+\end{figure}
+
+\begin{figure}
+\begin{center}
+   \includegraphics[width=12cm]{./figures/part3/distributed_query_graph.pdf}
+    \caption{查询图}
+   \label{fig:querygrpahgStoreD}
+\end{center}
+\end{figure}

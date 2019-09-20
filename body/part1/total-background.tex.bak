@@ -1,0 +1,147 @@
+\chapter{知识图谱概述}\label{sec:Background}
+\section{什么是知识图谱}
+当我们在百度“瓦特”的时候，百度会返回发明家瓦特的百度百科等页面（如图\ref{fig:baiduWatt}）。为什么会这样？
+因为百度为所有网页建立了从关键词到网页的倒排索引。基于倒排索引，百度首先找到了包含“瓦特”的网页，然后百度基于PageRank算法对这些网页按照权威程度进行排序，最后最权威的网页（如瓦特的百度百科页面）被排在前面返回给我们。
+
+换言之，瓦特的百度百科页面被返回的原因并不在于计算机知道那个网页描述了瓦特，而是在于这个网页包含了“瓦特”这两个字。
+
+\begin{figure}
+\begin{center}
+   \includegraphics[width=12cm]{./figures/part1/baidu.png}
+    \caption{百度“瓦特”结果页面}
+   \label{fig:baiduWatt}
+\end{center}
+\end{figure}
+
+
+上面这些基于文本字符串的技术，在这些年的互联网发展中取得不错的效果，已经成为了目前互联网上进行自然语言理解的基础。谷歌、百度等一系列搜索引擎基于这些技术成长为了行业巨头。
+
+
+但是随着时代发展，这些技术的局限性也日益明显。因为基于文本字符串的技术本质上并没有理解我们的语义，所以它无法处理复杂的带语义的查询。比如当我们查询“瓦特在哪工作过？”的时候，百度会给我们返回一系列百度知道、百度贴吧的问答（如图\ref{fig:baidufatherinlaw}），而无法直接返回“格拉斯哥大学”的相关页面。这本质上就是因为搜索引擎只是根据网页中的文本内容来得到结果，而不是真正理解我们的世界。
+
+\begin{example}\textbf{（背景知识）}
+
+\emph{詹姆斯·瓦特}（James Watt，1736年1月19日 — 1819年8月25日）英国发明家，第一次工业革命的重要人物。1776年制造出第一台有实用价值的蒸汽机。以后又经过一系列重大改进，使之成为“万能的原动机”，在工业上得到广泛应用。他开辟了人类利用能源新时代，使人类进入“蒸汽时代”。后人为了纪念这位伟大的发明家，把功率的单位定为“瓦特”（简称“瓦”，符号W）。\footnote{https://baike.baidu.com/item/詹姆斯·瓦特}
+
+\emph{格拉斯哥大学}（University of Glasgow），英国老牌名校，位于英国苏格兰格拉斯哥市，始建于1451年，是全球最为古老的十所大学之一，英语世界国家第四古老大学。
+作为一所英国综合性古典大学，格拉斯哥大学与人类文明的发展紧密相联。经济学之父亚当·斯密（国富论著者）、工业革命之父詹姆斯·瓦特等大批杰出校友均为社会的发展进步做出了举世瞩目的贡献。\footnote{https://baike.baidu.com/item/格拉斯哥大学}
+
+1757年，格拉斯哥大学的教授提供给瓦特一个机会，让他在大学里开设了一间小修理店。瓦特的小店开业5年后，在朋友的引导下，瓦特开始了对蒸汽机的实验。经过近20年的研发，1774年瓦特将自己设计的蒸汽机投入生产，并于1776年成功制造了第一批新型蒸汽机并应用于实际生产。\footnote{https://baike.baidu.com/item/詹姆斯·瓦特}
+\end{example}
+
+\begin{figure}
+\begin{center}
+   \includegraphics[width=12cm]{./figures/part1/baidufatherinlaw.png}
+    \caption{百度“瓦特在哪工作过？”结果页面}
+   \label{fig:baidufatherinlaw}
+\end{center}
+\end{figure}
+
+为了让计算机更加智能，让计算机理解我们的世界，于是我们需要计算机理解这个世界的知识。
+
+知识是结构化的经验、价值、相关信息和专家洞察力的融合，并为新经验的评估、整合与资讯等提供架构\cite{url:KnowledgeDef}。20世纪90 年代以来，万维网已成为人们获取知识的主要的手段\cite{article:Internet}。为了在万维网上的获取知识，人们通常通过向搜索引擎提交关键词的方式从万维网上检索出通过网页文本、图片、视频等形式所呈现出的信息，并从这些信息里面提取所需知识。
+
+
+近些年来，知识图谱（Knowledge Graph）逐渐兴起并成为互联网上表示知识并利用知识的重要发展方向。知识图谱是由谷歌公司于2012年5月16日正式发布出来，用来增强谷歌搜索引擎的能力\cite{url:KnowledgeGraphDef}。
+在知识图谱中，人们将越来越多的知识按照图的形式结构化地组织起来。这些图结构化、易操作、易利用、全面有组织的知识集群就是知识图谱。知识图谱经常是采用某种知识表示模型在计算机存储器中存储、组织、管理和使用的互相联系的知识片集合。
+
+\section{知识图谱由来与发展}
+1950-1970：人工智能诞生
+
+1956年达特茅斯会议，提出“人工智能(Artificial Intelligence,AI )”概念。
+
+三大流派：
+符号主义（Symbolism）
+连接主义（Connectionism）
+行为主义  (Actionism)
+
+
+符号主义(symbolicism)，又称为逻辑主义(logicism)、心理学派(psychologism)或计算机学派(computerism)，其主要原理为认知过程就是在符号表示上的一种运算。
+
+认为人工智能源于数理逻辑。数理逻辑从19世纪末起得以迅速发展，到20世纪30年代开始用于描述智能行为。计算机出现后，又再计算机上实现了逻辑演绎系统。其有代表性的成果为启发式程序LT逻辑理论家，证明了38条数学定理，表了可以应用计算机研究人的思维多成，模拟人类智能活动。正是这些符号主义者，早在1956年首先采用“人工智能”这个术语。后来又发展了启发式算法->专家系统->知识工程理论与技术，并在20世纪80年代取得很大发展。符号主义曾长期一枝独秀，为人工智能的发展作出重要贡献，尤其是专家系统的成功开发与应用，为人工智能走向工程应用和实现理论联系实际具有特别重要的意义。在人工智能的其他学派出现之后，符号主义仍然是人工智能的主流派别。这个学派的代表任务有纽厄尔(Newell)、西蒙(Simon)和尼尔逊(Nilsson)等
+
+——《人工智能及其应用(第3版)》蔡自兴
+
+
+连接主义(connectionism)，又称为仿生学派(bionicsism)或生理学派(physiologism)，其主要原理为智能活动是由大量简单的单元通过复杂的相互连接后并行运行的结果。
+当前典型研究：深度学习、深度神经网络。
+
+
+
+
+
+\section{知识图谱的数据模型与查询语言}
+现阶段，人们已提出过各种各样的知识表示模型，其中以W3C提出的RDF\cite{url:RDF}最为有名且已经被广泛地应用在各个领域。在定义RDF数据模型的同时，W3C也定义了结构化查询语言SPARQL（Simple Protocol and RDF Query Language）\cite{url:sparql}，以实现针对大规模RDF数据的查询与管理。目前，SPARQL查询语言已经成为W3C 的RDF 查询语言的推荐标准。本章将简述RDF和SPARQL的定义，并在第\ref{sec:RDFIntroduction}章和第\ref{sec:SPARQLIntroduction}章，我们将详细分别介绍RDF和 SPARQL的定义。
+
+
+
+
+RDF (Resource Description Framework，即资源描述框架) 是W3C提出的一组知识表示的模型，以便更为丰富地描述和表达网络资源的内容与结构。RDF利用统一资源标识符（Uniform Resource Identifier，URI）标识从网页等信息资源拓展到所有事物。这些URI 所对应的事物既包括真实世界中的实体（比如一本书）也包括人们在社会实践中形成的概念（比如书、作者）等。这些URI 所对应的事物又被成为资源。这些资源很多都是有自己的属性描述的；此外，客观世界中不同实体、概念和事件相互之间可能会有各种关系，所以知识图谱数据中不同资源之间也是会有关系的。
+
+
+例如，图\ref{fig:rdfresource}以DBpedia\cite{DBLP:DBpedia}中拿破仑为例来表示了知识图谱中对资源的描述。拿破仑像上方的字符串标识符就是拿破仑所对应资源的URI。图\ref{fig:rdfresource}中拿破仑像下方给出的属性和属性值描述了拿破仑这个资源所对应的人的名字是“Napoleon”@en。图\ref{fig:rdfresource}给出了拿破仑和另一个表示法国科西嘉岛所对应的资源通过一个“dbo:birthPlace”关系连接了起来，描述了拿破仑与科西嘉岛有出生于这个关系，即拿破仑出生于科西嘉岛。
+
+\begin{figure}
+\begin{center}
+   \includegraphics[width=8cm]{./figures/part1/resource.pdf}
+    \caption{RDF资源}
+   \label{fig:rdfresource}
+\end{center}
+\end{figure}
+
+RDF的基本数据单元是一个三元组，可以表示为<主体，属性，客体>。每个三元组表示某个资源的一个属性值或者某个资源与其他资源的关系。当某条三元组描述了某个实体的属性时，其三个元素也被称为主体、属性及属性值。因此，一个知识图谱数据集可以看做一系列三元组的集合。
+
+例如，图\ref{fig:rdftriples}中展示了一个RDF数据集的片段。这段数据截取于著名的RDF数据集DBPedia\cite{DBLP:DBpedia}，描述了法国大革命时期与拿破仑相关的政治人物以及相关事物所对应的资源以及它们之间的关系。
+
+\begin{figure}
+\begin{center}
+   \includegraphics[width=12cm]{./figures/part1/triples.pdf}
+    \caption{RDF三元组示例}
+   \label{fig:rdftriples}
+\end{center}
+\end{figure}
+
+%\subsection{RDF数据图模型}\label{sec:RDFGraphModel}
+利用这些属性和关系，很多实体就被连接起来形成了一个大的知识图谱。按照上述的描述，我们可以发现一个知识图谱数据可以天然的被视为一个图。在这个图中，每个实体或者知识图谱数据集中出现过的字符串可以被视为图上的点，每个三元组可以视为连接主体及客体的有向边，而三元组中的谓词就可以视为有向边上的标签。相比于将知识图谱数据视为XML格式数据或三元组的集合，知识图谱的图模型包含了知识图谱数据中涵盖的语义信息。
+
+
+图\ref{fig:datagraph}就是图\ref{fig:rdftriples}所示知识图谱三元组数据的图形式。如图\ref{fig:datagraph}所示，知识图谱可以表示成一个有向图，其所有的实体都是椭圆，概念是圆形，而文本点都是矩形点。
+
+
+\begin{figure}
+\begin{center}
+   \includegraphics[width=12cm]{./figures/part1/data_graph.pdf}
+    \caption{RDF数据图}
+   \label{fig:datagraph}
+\end{center}
+\end{figure}
+
+另一方面，SPARQL 语言与目前关系数据库中的SQL 语言是很相近的。在SPARQL 语法中，也是用SELECT 语句查询满足特定条件的RDF数据片段。具体而言，对于一个SELECT 语句中，SELECT 子句指定查询应当返回的内容，FROM 子句是指定将要使用的数据集，WHERE 子句一组三元模式组成用以指定所返回的RDF 数据片段需要满足的模式。SPARQL 语言与SQL 语言相似的这个特性方便了用户对于SPARQL 语言的使用。图\ref{fig:SPARQLStatements}(a)给出了一个针对哲学家的简单的 SPARQL 查询，目标在于查询出``拿破仑妻子的姓名与出生时间''。
+
+\nop{
+\small{
+\begin{lstlisting}[language=SQL]
+SELECT  ?x ?n  WHERE
+{?x mainInterest Ethics.
+?x influencedBy Aristotle.
+?x name ?n. }
+\end{lstlisting}
+}
+\normalsize
+}
+
+与RDF数据的图形式表示类似，一个SPARQL 查询可以表示为一个查询图\cite{VLDB2011:gStore,VLDBJ:gStore}，查询中每个变量或者常量对应一个查询图上的点，每个WHERE 子句中的三元模式对应一条边。例如，图\ref{fig:SPARQLStatements}(b) 就给出了图\ref{fig:SPARQLStatements}(a)中示例SPARQL 所对应的查询图。
+
+
+\begin{figure}[h]
+\begin{center}
+   \includegraphics[width=11cm]{./figures/part1/query_graph.pdf}
+    \caption{SPARQL查询图示例}
+   \label{fig:SPARQLStatements}
+\end{center}
+\end{figure}
+
+\section{知识图谱的主要应用}
+
+
+

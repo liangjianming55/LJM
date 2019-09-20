@@ -1,0 +1,59 @@
+\chapter{知识图谱的数据模型---RDF\& OWL}\label{sec:RDFIntroduction}
+\section{RDF数据三元组模型}\label{sec:RDFModel}
+
+
+\section{OWL简介}\label{sec:OWL}
+
+
+\section{常见的RDF知识图谱数据集合}\label{sec:RDFDatasets}
+
+Linked Data
+
+\begin{figure}[h]
+\begin{center}
+   \includegraphics[width=11cm]{./figures/part1/lod-cloud.pdf}
+    \caption{关联数据}
+   \label{fig:linkeddata}
+\end{center}
+\end{figure}
+
+
+\subsection{常见中文知识图谱数据集}\label{sec:ChineseDatasets}
+\textbf{PKUBase.}
+PKUBase
+
+\textbf{CN-DBpedia.}
+CN-DBpedia\cite{DBLP:CNDBpedia} CN-DBpedia是由复旦大学知识工场实验室研发并维护的大规模通用领域结构化百科知识图谱数据集。CN-DBpedia前身是复旦大学GDM中文知识图谱，是国内最早推出的也是目前最大规模的开放百科中文知识图谱数据集。CN-DBpedia涵盖数千万实体和数亿级的关系，相关知识服务API累计调用量已达6亿次。
+CN-DBpedia以通用的百科知识沉淀为主线，以垂直纵深领域图谱积累为支线，致力于为机器语义理解提供了丰富的背景知识，为实现机器语言认知提供必要支撑。
+
+CN-DBpedia已经从百科领域延伸至法律、工商、金融、文娱、科技、军事、教育、医疗等十多个垂直领域，为各类行业智能化应用提供支撑性知识服务，目前已有近百家单位在使用。
+CN-DBpedia具有体量巨大、质量精良、实时更新、丰富的API服务等特色。CN-DBpedia已经成为业界开放中文知识图谱的首选。基于CN-DBpedia的知识图谱构建与应用能力已经输出并应用在华为、小I机器人、中国电信、中国移动、同花顺等业界领军企业的产品与解决方案中。
+
+CN-DBpedia提供全套API，并且免费开放使用。详细下载地址，可见http://kw.fudan.edu.cn/cndbpedia/intro/。
+
+
+
+\subsection{常见外文知识图谱数据集}\label{sec:EnglishDatasets}
+\textbf{DBpedia.}
+DBpedia\cite{DBLP:DBpedia}
+2007年开放。
+目标是构建一个社区，通过社区成员定义和撰写准确的抽取模板，进而从维基百科中抽取结构信息，并将其发布到Web上。
+社区通过人工的方式构建分类：
+280个类别
+覆盖约50%的维基百科实体
+
+
+\textbf{YAGO.}
+YAGO\cite{DBLP:YAGO,DBLP:YAGO2,DBLP:YAGO3}
+
+\textbf{Freebase.}
+Freebase\cite{url:Freebase}
+2007年Metaweb公司发布。
+2010年被Google收购。
+大规模协同构建知识库。
+从Wikipedia和其他数据源(如 IMDB、MusicBrainz)中导入知识
+核心思想：
+在Wikipedia中，人们编辑文章
+在Freebase中，人们编辑结构化知识
+
+

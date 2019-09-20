@@ -1,0 +1,1233 @@
+<http://dbpedia.org/resource/Louis_XVIII_of_France> ?x	?y
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:19th-century_French_people>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Roman_Catholic_monarchs>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Knights_of_the_Garter>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:House_of_Bourbon>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:French_monarchs>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:House_of_Bourbon_(France)>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:18th-century_French_people>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Grand_Croix_of_the_L%C3%A9gion_d'honneur>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:1755_births>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Kings_of_France>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Burials_at_the_Basilica_of_St_Denis>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:People_of_the_French_Revolution>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Holy_Spirit>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Politicians_with_physical_disabilities>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:French_Freemasons>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Princes_of_France_(Bourbon)>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Princes_of_Andorra>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Grand_Masters_of_the_Order_of_the_Holy_Spirit>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Grand_Masters_of_the_Order_of_Saint_Michael>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Counts_of_Provence>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Regents_of_France>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:People_of_the_Bourbon_Restoration>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Order_of_the_Holy_Spirit>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Dukes_of_Anjou>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:People_from_Versailles>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Dukes_of_Vend%C3%B4me>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Heirs_presumptive_to_the_French_throne>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:1824_deaths>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Dukes_of_Perche>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Dukes_of_Alen%C3%A7on>
+<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Deaths_from_disease>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Use_dmy_dates>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Reflist>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Commons_category>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Main>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Portal>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Use_British_English>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Good_article>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Persondata>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:End>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Infobox_royalty>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Ahnentafel-compact5>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-start>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-hou>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-reg>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-bef>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-ttl>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-aft>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-new>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-roy>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-vac>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-non>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-pre>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:S-tul>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:French_Pretenders>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:French_Revolution_navbox>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Coin_image_box_1_double>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Monarchs_of_France>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:France_topics>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Princes_of_France_(House_of_Bourbon)>
+<http://dbpedia.org/property/wikiPageUsesTemplate>	<http://dbpedia.org/resource/Template:Dukes_of_Anjou>
+<http://www.w3.org/2000/01/rdf-schema#label>	"Louis XVIII of France"@en
+<http://www.w3.org/2000/01/rdf-schema#label>	"Louis XVIII de France"@fr
+<http://www.w3.org/2000/01/rdf-schema#label>	"Luigi XVIII di Francia"@it
+<http://www.w3.org/2000/01/rdf-schema#label>	"Lodewijk XVIII van Frankrijk"@nl
+<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://www.nndb.com/people/834/000093555/>
+<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://thinkexist.com/quotation/punctuality_is_the_politeness_of/180612.html>
+<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://books.google.fr/books?id=GxUoAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Pierre-Victor+Besenval+(baron+de)%22&hl=fr&sa=X&ei=RlaeUKeoHvKR0QW2_ICwCA&ved=0CDQQ6AEwAQ#v=onepage&q&f=false>
+<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://www.herodote.net/18150319.htm>
+<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://doc.geneanet.org/zoom.php?idacte=260>
+<http://dbpedia.org/property/hasPhotoCollection>	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Louis_XVIII_of_France>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://rdf.freebase.com/ns/m.0gs_r>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://wikidata.org/entity/Q7750>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://wikidata.dbpedia.org/resource/Q7750>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://cs.dbpedia.org/resource/Ludvík_XVIII.>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://de.dbpedia.org/resource/Ludwig_XVIII.>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://el.dbpedia.org/resource/Λουδοβίκος_ΙΗ΄_της_Γαλλίας>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://es.dbpedia.org/resource/Luis_XVIII_de_Francia>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://eu.dbpedia.org/resource/Luis_XVIII.a_Frantziakoa>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://fr.dbpedia.org/resource/Louis_XVIII_de_France>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://id.dbpedia.org/resource/Louis_XVIII_dari_Perancis>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Luigi_XVIII_di_Francia>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ja.dbpedia.org/resource/ルイ18世_(フランス王)>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ko.dbpedia.org/resource/루이_18세>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://nl.dbpedia.org/resource/Lodewijk_XVIII_van_Frankrijk>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://pl.dbpedia.org/resource/Ludwik_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://pt.dbpedia.org/resource/Luís_XVIII_de_França>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://an.dbpedia.org/resource/Loís_XVIII_de_Francia>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ar.dbpedia.org/resource/لويس_الثامن_عشر>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://arz.dbpedia.org/resource/لويس_التمنتاشر>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://be.dbpedia.org/resource/Людовік_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://bg.dbpedia.org/resource/Луи_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://br.dbpedia.org/resource/Loeiz_XVIII_(Bro-C'hall)>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://bs.dbpedia.org/resource/Luj_XVIII,_kralj_Francuske>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ca.dbpedia.org/resource/Lluís_XVIII_de_França>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://cy.dbpedia.org/resource/Louis_XVIII,_brenin_Ffrainc>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://da.dbpedia.org/resource/Ludvig_18._af_Frankrig>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://eo.dbpedia.org/resource/Ludoviko_la_18-a_(Francio)>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://et.dbpedia.org/resource/Louis_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://fa.dbpedia.org/resource/لوئی_هجدهم>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://fi.dbpedia.org/resource/Ludvig_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://gl.dbpedia.org/resource/Luís_XVIII_de_Francia>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://he.dbpedia.org/resource/לואי_השמונה_עשר,_מלך_צרפת>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://hi.dbpedia.org/resource/लुई_अट्ठारहवाँ>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://hr.dbpedia.org/resource/Luj_XVIII.,_kralj_Francuske>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://hu.dbpedia.org/resource/XVIII._Lajos_francia_király>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://io.dbpedia.org/resource/Louis_18ma>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://is.dbpedia.org/resource/Loðvík_18.>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ka.dbpedia.org/resource/ლუი_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://la.dbpedia.org/resource/Ludovicus_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://lt.dbpedia.org/resource/Liudvikas_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://lv.dbpedia.org/resource/Luijs_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://mk.dbpedia.org/resource/Луј_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://mr.dbpedia.org/resource/अठरावा_लुई,_फ्रान्स>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ms.dbpedia.org/resource/Louis_XVIII_dari_Perancis>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://nn.dbpedia.org/resource/Ludvig_XVIII_av_Frankrike>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://no.dbpedia.org/resource/Ludvig_XVIII_av_Frankrike>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://oc.dbpedia.org/resource/Loís_XVIII_de_França>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ro.dbpedia.org/resource/Ludovic_al_XVIII-lea_al_Franței>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://ru.dbpedia.org/resource/Людовик_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://scn.dbpedia.org/resource/Luiggi_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://sh.dbpedia.org/resource/Luj_XVIII.,_kralj_Francuske>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://simple.dbpedia.org/resource/Louis_XVIII_of_France>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://sk.dbpedia.org/resource/Ľudovít_XVIII.>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://sr.dbpedia.org/resource/Луј_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://sv.dbpedia.org/resource/Ludvig_XVIII_av_Frankrike>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://th.dbpedia.org/resource/พระเจ้าหลุยส์ที่_18_แห่งฝรั่งเศส>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://tr.dbpedia.org/resource/XVIII._Louis>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://uk.dbpedia.org/resource/Людовик_XVIII>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://vec.dbpedia.org/resource/Luigi_XVIII_de_Fransa>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://vi.dbpedia.org/resource/Louis_XVIII_của_Pháp>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://yo.dbpedia.org/resource/Louis_18k_ilẹ̀_Fránsì>
+<http://www.w3.org/2002/07/owl#sameAs>	<http://zh.dbpedia.org/resource/路易十八>
+<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_XVIII,_the_Desired.jpg>
+<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_XVIII2.jpg>
+<http://xmlns.com/foaf/0.1/depiction>	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_18_robes.jpg>
+<http://dbpedia.org/ontology/thumbnail>	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_XVIII,_the_Desired.jpg?width=300>
+<http://dbpedia.org/ontology/thumbnail>	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_XVIII2.jpg?width=300>
+<http://dbpedia.org/ontology/thumbnail>	<http://commons.wikimedia.org/wiki/Special:FilePath/Louis_18_robes.jpg?width=300>
+<http://dbpedia.org/ontology/abstract>	"Louis XVIII (Louis Stanislas Xavier; 17 November 1755 – 16 September 1824), known as \"the Desired\" (le Désiré), was a monarch of the House of Bourbon who ruled as King of France and Navarre from 1814 to 1824 except for a period in 1815 known as the Hundred Days. Louis XVIII spent twenty-three years in exile, from 1791 to 1814, during the French Revolution and the First French Empire, and again in 1815, during the period of the Hundred Days, upon the return of Napoleon I from Elba.Until his accession to the throne of France, Louis held the title of Count of Provence as brother of King Louis XVI. On 21 September 1792, the National Convention abolished the monarchy and deposed King Louis XVI, who was later executed by guillotine. When the young Louis XVII, Louis XVI's son, died in prison in June 1795, Louis XVIII succeeded his nephew as titular King.During the French Revolution and Napoleonic era, Louis XVIII lived in exile in Prussia, the United Kingdom and Russia. When the Sixth Coalition finally defeated Napoleon in 1814, Louis was restored to what he, and the French royalists, considered his rightful position. Napoleon escaped from his exile in Elba, however, and restored his French Empire. Louis XVIII fled and a Seventh Coalition declared war on the French Empire, defeated Napoleon, and for a second time restored Louis XVIII to the French throne.Louis XVIII ruled as king for slightly less than a decade. The Bourbon Restoration regime was a constitutional monarchy (unlike the ancien régime, which was absolutist). As a constitutional monarch, Louis XVIII's royal prerogative was reduced substantially by the Charter of 1814, France's new constitution. Louis had no children; therefore, upon his death, the crown passed to his brother, Charles, Count of Artois. Louis XVIII was the last French monarch to die while reigning."@en
+<http://dbpedia.org/ontology/abstract>	"Louis XVIII, surnommé le Désiré — né à Versailles le 17 novembre 1755 sous le nom de Louis Stanislas Xavier de France, et par ailleurs comte de Provence (1755-1795) — fut roi de France et de Navarre de 1814 à 1815 et de 1815 à sa mort, le 16 septembre 1824, à Paris. Il meurt sans descendance, et est inhumé à la basilique Saint-Denis. Son frère, le comte d’Artois, chef des ultras, lui succède sous le nom de Charles X. Louis XVIII est le dernier monarque français à être mort régnant."@fr
+<http://dbpedia.org/ontology/abstract>	"Luigi XVIII di Borbone (Versailles, 17 novembre 1755 – Parigi, 16 settembre 1824) fu re di Francia dal 1814 al 1824.Nipote di Luigi XV, figlio del delfino di Francia Luigi e di Maria Giuseppina di Sassonia, era il fratello minore del re ghigliottinato, Luigi XVI."@it
+<http://dbpedia.org/ontology/abstract>	"Lodewijk XVIII (Kasteel van Versailles, 17 november 1755 – Parijs, 16 september 1824) was van 1814 tot 1824 koning van Frankrijk en Navarra. Hij regeerde vanaf 1814 tot zijn dood in 1824, met een kleine onderbreking in 1815, toen tijdens de Honderd Dagen keizer Napoleon I tijdelijk weer even aan de macht was.Hij was een jongere broer van koning Lodewijk XVI en een oom van koning Lodewijk XVII. Vanaf 1791 tot 1814 leefde hij achtereenvolgens in ballingschap in Pruisen, het Verenigd Koninkrijk en Rusland. In de Eerste Franse Republiek schafte men de monarchie af. Koning Lodewijk XVI werd op 21 september 1792 afgezet. Hoewel de monarchie nu officieel was opgeheven volgde Lodewijk XVIII zijn neefje, Lodewijk XVII, als titulair koning op, dit nadat de kleine jongen in juni 1795 in gevangenschap was gestorven.Nadat de legers van de coalitie in 1814 Parijs op Napoleon veroverden, werd Lodewijk XVIII officieel als koning erkend. In het tijdvak dat de Franse Restauratie wordt genoemd, regeerde Lodewijk XVIII iets minder dan een decennium. In tegenstelling tot het Ancien Régime (absolutisme) was de Restauratie een constitutionele monarchie. Als constitutioneel monarch werd het koninklijke gezag van Lodewijk XVIII aan banden gelegd door het Charter van 1814, de nieuwe Franse grondwet. Lodewijk had geen kinderen; dus na zijn dood werd de kroon overgedragen aan zijn jongere broer, Karel, graaf van Artois. Lodewijk XVIII was de laatste Franse monarch die in functie overleed."@nl
+<http://dbpedia.org/ontology/wikiPageOutDegree>	"334"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/ontology/wikiPageID>	"62114"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/ontology/wikiPageLength>	"57035"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/French_Revolution>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Catholic_Church>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Orson_Welles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Russian_Empire>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Saint_Petersburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Victor_Hugo>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Absolute_monarchy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Tsar>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Antoinette_(1938_film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/London>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Spain>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Departments_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Toulouse>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/First_French_Empire>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Constitutional_monarchy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Burgundy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Scotland>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Smallpox>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/July_Revolution>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/England>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Bank>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/De_jure>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Stockholm>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Sweden>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Roman_Catholicism>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Dolphin>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Madeira>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Paris>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/New_World>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Dresden>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Francis_Xavier>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Palace_of_Versailles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Vienna>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Warsaw>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Regent>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Gilbert_du_Motier,_Marquis_de_Lafayette>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/George_III_of_the_United_Kingdom>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Prussia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Kingdom_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/George_III_of_Great_Britain>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Republic_of_Venice>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Edinburgh>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Rhine>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Metz>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Cannes>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/United_Kingdom>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/War_reparations>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Riga>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Westphalia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napoleonic_Wars>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Low_Countries>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/United_Kingdom_of_the_Netherlands>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Right_of_asylum>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napoleon_I_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Hamburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Gothenburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Wheelchair>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Alexandre_Dumas>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Alexandre_Dumas,_p%C3%A8re>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Koblenz>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Maurice_de_Talleyrand-P%C3%A9rigord>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/House_of_Habsburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Rh%C3%B4ne>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1988>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2007>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_Philippe_I>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2001>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1999>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1997>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1993>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1969>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1948>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1942>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1944>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1996>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1998>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1990>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1961>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1956>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1893>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1991>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1970>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1880>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1987>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1986>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1973>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1839>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1955>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1823>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1792>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1930>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1794>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1814>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1852>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1934>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1799>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2004>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2002>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1820>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1795>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1777>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2008>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2009>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2006>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2003>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2010>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2012>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1938>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1950>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Holy_Roman_Empire>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_XIV_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1926>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1809>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1764>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1802>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1755>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1793>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1832>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1771>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1761>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_XV_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1789>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1829>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1758>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Francis_II,_Holy_Roman_Emperor>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1815>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1824>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1753>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1775>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Elba>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1818>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1833>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1899>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1790>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1810>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1830>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Bourbon_Restoration>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Sardinia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1791>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1780>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Lyon>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1842>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1816>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Latvia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1813>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/French_First_Republic>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Victor_Amadeus_II_of_Sardinia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Antonia_Fraser>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anne_Marie_d'Orl%C3%A9ans>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napoleon_I>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Brittany>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Gangrene>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:19th-century_French_people>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Order_of_Saint_Lazarus>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Baptism>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Joseph_II,_Holy_Roman_Emperor>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Rome>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/House_of_Bourbon>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Basilica_of_St_Denis>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Genoa>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_XVI_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_Fran%C3%A7ois,_Prince_of_Conti>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_X_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Guillaume-Marie-Anne_Brune>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Henri,_Count_of_Chambord>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anne-Robert-Jacques_Turgot,_Baron_de_Laune>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/King>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/George_Canning>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/French_invasion_of_Russia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1774>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1822>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1804>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1785>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ancien_R%C3%A9gime>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1840>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1811>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Frederick_William_III_of_Prussia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1807>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1759>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Prince-elector>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Burgundy_(region)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1821>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Guillotine>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napoleonic_era>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Storming_of_the_Bastille>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Piedmont>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Calais>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Turin>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1781>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Lille>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/National_Convention>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duchy_of_Brunswick>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France,_Duke_of_Burgundy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Counts_and_Dukes_of_Alen%C3%A7on>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/George_IV_of_the_United_Kingdom>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_rulers_of_Saxony>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_monarchs_of_Prussia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_XIV_John_of_Sweden>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Gout>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Congress_of_Vienna>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Congress_of_Aix-la-Chapelle_(1818)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Freedom_of_religion>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Agde>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Roman_Catholic_monarchs>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_Polish_monarchs>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Appanage>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Knights_of_the_Golden_Fleece>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Black_Eagle>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Paul_I_of_Russia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Frederick_William_II_of_Prussia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Alexander_I_of_Russia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Christiane_Eberhardine_of_Brandenburg-Bayreuth>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Chamb%C3%A9ry>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Victor_Amadeus_III_of_Sardinia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Austrian_Netherlands>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ghent>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Schleswig-Holstein>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Vespasian>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Capetian_dynasty>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Counts_and_Dukes_of_Savoy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duke_of_Savoy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Knights_of_the_Garter>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ferdinand_VII_of_Spain>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:House_of_Bourbon>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_Navarrese_monarchs>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:French_monarchs>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anjou>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Leopold_II,_Holy_Roman_Emperor>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:House_of_Bourbon_(France)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Kingdom_of_Naples>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Kingdom_of_Sardinia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Parliament>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louvre_Palace>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:18th-century_French_people>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jacques_Necker>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Universal_suffrage>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_XVIII_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_Fran%C3%A7ois_Cauchy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Parlement>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Counts_and_dukes_of_Anjou>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_rulers_of_Provence>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jean-Baptiste_de_Vill%C3%A8le>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/William_Cavendish-Bentinck,_3rd_Duke_of_Portland>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_Danish_monarchs>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Joseph_I,_Holy_Roman_Emperor>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/B%C3%A9arn>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Rh%C3%B4ne_River>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Masonic_Lodge>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/%C3%8Ele-de-France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Franc>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Salic_law>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Benedicta_Henrietta_of_the_Palatinate>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Salic_Law>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jean-Charles_Pichegru>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Antoinette>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Habsburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/War_of_the_Sixth_Coalition>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/National_Constituent_Assembly>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Louise,_Duchess_of_Parma>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Battle_of_Austerlitz>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Treaty_of_Paris_(1815)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Hundred_Days>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jean-Pierre_Cortot>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/List_of_works_by_James_Pradier>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Wilhelmine_Amalia_of_Brunswick-L%C3%BCneburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Battle_of_Waterloo>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Courland>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Grand_Croix_of_the_L%C3%A9gion_d'honneur>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Kingdom_of_Saxony>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/National_Assembly_(French_Revolution)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Dauphin_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Philip_V_of_Spain>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Leopold_I,_Holy_Roman_Emperor>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Gebhard_Leberecht_von_Bl%C3%BCcher>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Elisabeth_Farnese>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Augustus_II_the_Strong>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Augustus_III_of_Poland>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Philippe_I,_Duke_of_Orl%C3%A9ans>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis,_Grand_Dauphin>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duchess_Maria_Anna_Victoria_of_Bavaria>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Maria_Josepha_of_Austria>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Eleonor_Magdalene_of_Neuburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1661-1711)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Wilhelmina_Amalia_of_Brunswick>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Eleonore-Magdalena_of_Neuburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Privy_council>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Retirement>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Frigate>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Count>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:1755_births>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/John_George_III,_Elector_of_Saxony>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony,_Dauphine_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/John_Frederick,_Duke_of_Brunswick-L%C3%BCneburg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Maria_Antonia_Ferdinanda_of_Spain>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Clotilde_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Christian_Ernst,_Margrave_of_Brandenburg-Bayreuth>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Anna_Sophie_of_Denmark>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Clotilde_de_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anne_Sophie_of_Denmark>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony_(1731%E2%80%931767)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/City_of_Brussels>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/John_VI_of_Portugal>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Francs>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Maubeuge>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Versailles_(city)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Buckinghamshire>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Estates-General_of_1789>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ancien_r%C3%A9gime>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Luxembourg_Palace>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Tulle>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/French_livre>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Villa_Medici>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Estates_General_(France)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/French_States-General>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Vichy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Waterloo_(1970_film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Michel_Ney>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Waterloo,_Belgium>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Emperor_of_the_French>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Andrieux_-_La_bataille_de_Waterloo.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/French_Consulate>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Joachim_Murat>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Snuff_(tobacco)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/House_of_Bonaparte>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napoleon_II>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Eug%C3%A8ne_de_Beauharnais>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Treaties_of_Tilsit>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Bonapartism>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Letters_patent>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Spanish_Constitution_of_1812>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Kings_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Canal_du_Midi>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Senate_(France)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Atheroma>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duchy_of_Westphalia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_XVII_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princes_of_Cond%C3%A9>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_Antoine,_Duke_of_Angoul%C3%AAme>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duchy_of_Lucca>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jaime,_Duke_of_Madrid>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Henri,_comte_de_Chambord>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis-Antoine,_Duke_of_Angoul%C3%AAme>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Count_of_Provence>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Burials_at_the_Basilica_of_St_Denis>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Cambrai>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Stanis%C5%82aw_Leszczy%C5%84ski>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Benjamin_Constant>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Battle_of_Eylau>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Battle_of_Friedland>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Languedoc>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Water_retention_(medicine)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Alexandre_de_Calonne>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Tuileries_Palace>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:People_of_the_French_Revolution>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Execution_of_Louis_XVI>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/The_Count_of_Monte_Cristo>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/French_Senate>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Women's_March_on_Versailles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Ad%C3%A9la%C3%AFde_of_Savoy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jean-de-Dieu_Soult>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Order_of_the_Holy_Spirit>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Holy_Spirit>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Treaty_of_Paris_(1814)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Th%C3%A9r%C3%A8se_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729%E2%80%931765)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Assembly_of_Notables>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Flight_to_Varennes>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duchy_of_Courland_and_Semigallia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duchy_of_Parma>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Antoinette_(2006_film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Great_Yarmouth>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Sofia_Coppola>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Politicians_with_physical_disabilities>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Battle_of_Valmy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Declaration_of_Pillnitz>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Fran%C3%A7ois_Furet>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Biens_nationaux>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/The_Women's_March_on_Versailles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Chamber_of_Deputies_(France)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/%C5%81azienki_Palace>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Fructidor>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Antoinette:_The_Journey>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Leszczy%C5%84ska>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:French_Freemasons>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Congress_of_Verona>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Basilica_of_Saint_Denis>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jacques_Bergerac>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Aranjuez>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Rafael_del_Riego>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Hundred_Thousand_Sons_of_Saint_Louis>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napol%C3%A9on_(miniseries)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/The_Count_of_Monte_Cristo_(1934_film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Frederick_VI_of_Denmark>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Chamber_of_Peers_(France)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ultra-royalist>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ultra-royalists>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Kalmar_County>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Electorate_of_Trier>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Fils_de_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Joseph_Fouch%C3%A9>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Reims_Cathedral>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jelgava>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Panev%C4%97%C5%BEys>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jacques_MacDonald>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Princes_of_France_(Bourbon)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Princes_of_Andorra>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Grand_Masters_of_the_Order_of_the_Holy_Spirit>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Grand_Masters_of_the_Order_of_Saint_Michael>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Prince_du_sang>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Prince_du_Sang>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Is%C3%A8re>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_%C3%89lisabeth_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Spencer_Perceval>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Victoire_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Italian_campaigns_of_the_French_Revolutionary_Wars>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Armand-Emmanuel_de_Vignerot_du_Plessis,_Duc_de_Richelieu>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/May_14>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Marie_Ad%C3%A9la%C3%AFde_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Napol%C3%A9on_(1955_film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/November_17>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Pierre-Paul_Riquet>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Emmanuel_IV_of_Sardinia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Blankenburg_(Harz)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Fran%C3%A7ois_G%C3%A9rard>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Henri_Gr%C3%A9goire>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Parlement_de_Paris>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Titular_ruler>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/M%C3%A9moires_d'Outre-Tombe>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Rafa%C5%82_Leszczy%C5%84ski_(1650%E2%80%931703)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anna_Leszczy%C5%84ska_(1660%E2%80%931727)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duke_of_Berry>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/September_16>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Jos%C3%A9phine_of_Savoy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Chambre_introuvable>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Coblenz>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/La_Fayette_(film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Church_of_Notre-Dame,_Versailles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Albert_Dekker>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_Joseph,_Dauphin_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/War_of_the_Seventh_Coalition>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Guillaume_Marie_Anne_Brune>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Bonapartist>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Counts_and_Dukes_of_Anjou>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Ferdinand,_Duke_of_Berry>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/%C3%89lie,_duc_Decazes>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Second_White_Terror>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Avesnes-sur-Helpe>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Prince_of_the_Blood>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2002_in_television>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Zofia_Czarnkowska_Opali%C5%84ska>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Counts_of_Provence>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Regents_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/%C3%89tienne_Charles_de_Lom%C3%A9nie_de_Brienne>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Lit_de_justice>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Maria_Theresa_of_Savoy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie-Th%C3%A9r%C3%A8se_Charlotte_de_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Acad%C3%A8mia_dels_J%C3%B2cs_Florals>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Bon-Adrien_Jeannot_de_Moncey>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Arm%C3%A9e_des_%C3%89migr%C3%A9s>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Richard_Temple-Nugent-Brydges-Chandos-Grenville,_1st_Duke_of_Buckingham_and_Chandos>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Richard_Temple-Grenville,_1st_Duke_of_Buckingham_and_Chandos>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Lady_Antonia_Fraser>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Pierre_Louis_Jean_Casimir_de_Blacas>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Robert_Lef%C3%A8vre>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:People_of_the_Bourbon_Restoration>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/The_Lame_Devil_(film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Queen_Louise_of_Prussia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Order_of_the_Holy_Spirit>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Louis_Huguet,_marquis_de_S%C3%A9monville>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Maria_Josepha_of_Saxony_(1731%E2%80%931767)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Catherine_Opali%C5%84ska>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jan_Karol_Opali%C5%84ski>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Antoinette_Queen_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis,_Duke_of_Burgundy_(1751%E2%80%931761)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729-1765)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anna_Leszczy%C5%84ska_(1660-1727)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis-Joseph,_Dauphin_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Katarzyna_Opali%C5%84ska>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Monsieur>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Sebastian_Armesto>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Dukes_of_Anjou>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:People_from_Versailles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Marie_Ad%C3%A9la%C3%AFde_of_Savoy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Sophie_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Philippe,_Duke_of_Anjou>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1979_in_television>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Hartwell_House,_Buckinghamshire>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Dukes_of_Vend%C3%B4me>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Heirs_presumptive_to_the_French_throne>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Beaumarchais_(film)>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:1824_deaths>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Dukes_of_Perche>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Dukes_of_Alen%C3%A7on>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Zo%C3%A9_Talon,_comtesse_du_Cayla>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Joseph_Dominique,_baron_Louis>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charter_of_1814>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Prince_Clemens_Wenceslaus_of_Saxony>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Louise_de_Rohan>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Gosfield_Hall>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jelgava_Palace>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anne_Nompar_de_Caumont>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Eugene,_Prince_of_Lambesc>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Governess_of_the_Children_of_France>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/%C3%89velyne_Lever>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Fran%C3%A7ois,_Marquis_de_Bonnay>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marguerite_de_Gourbillon>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Antoine_Louis_Fran%C3%A7ois_de_B%C3%A9siade>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Armand-Emmanuel_du_Plessis,_duc_de_Richelieu>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Th%C3%A9r%C3%A8se>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Schleswig_Holstein>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/War_indemnity>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Clemens_Wenceslaus_of_Saxony>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie-Th%C3%A9r%C3%A8se>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Order_of_St._Lazarus>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Princess_Marie_Josephine_Louise_of_Savoy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Empire_of_Russia>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis_of_France,_Duke_of_Burgundy>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles-Eug%C3%A8ne_de_Lorraine,_prince_de_Lambesc>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Maurice_Quentin_de_La_Tour,_Portrait_de_Louis_Stanislas_Xavier_de_France,_comte_de_Provence_(1762).jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Louis_Stanislas_Young.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Fran%C3%A7ois_hubert_drouais_-_duque_berry_conde_proven%C3%A7a.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:JoungLouisXVIII.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:MarieJosephinedeSavoie.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Boiler_hard_paste_porcelain_Manufacture_de_Monsieur_1780.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Declaration_of_Verona>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Pils_Jelgava.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Hartwell_House,_Bucks.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Louis_XVIII_relevant_la_France.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Cruikshank_-_Old_Bumblehead.png>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:La_famille_royale_by_Gautier.jpg>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/File:Tombe_louis_XVIII_roi_de_france_saint-denis.JPG>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Jean-Joseph,_Marquis_Dessolles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/History_of_the_French_line_of_succession>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Plot_of_the_rue_Saint-Nicaise>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Chapels_of_Versailles>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ominous_Decade>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/L'Isle-Jourdain,_Gers>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/2006_in_television>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Farewell,_My_Queen>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1975_in_television>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Category:Deaths_from_disease>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/1989_in_television>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Estates_of_Languedoc>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Port_Saint-Sauveur>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Baschi>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Le_Radeau_de_la_M%C3%A9duse>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Charles_Dambray>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Cardinal_de_Soubise>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/White_Terror>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Duke_of_Decazes>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Lucien_Baroux>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Henri_Tisot>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Louis-Alexandre_de_Launay,_comte_d'Antraigues>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/For%C3%AAt_de_Bouconne>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Henry_Laverne>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Anne_Louis_Henri_de_La_Fare>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Henri_Evrard,_marquis_de_Dreux-Br%C3%A9z%C3%A9>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Cortes>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ambroise-Polycarpe_de_La_Rochefoucauld>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Ministry_of_%C3%89lie_Decazes>
+<http://dbpedia.org/ontology/wikiPageWikiLink>	<http://dbpedia.org/resource/Marie_Antoinette_(disambiguation)>
+<http://dbpedia.org/ontology/wikiPageRevisionID>	"605015781"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://en.wikipedia.org/wiki/Louis_XVIII_of_France?oldid=605015781>
+<http://www.w3.org/2000/01/rdf-schema#comment>	"Louis XVIII (Louis Stanislas Xavier; 17 November 1755 – 16 September 1824), known as \"the Desired\" (le Désiré), was a monarch of the House of Bourbon who ruled as King of France and Navarre from 1814 to 1824 except for a period in 1815 known as the Hundred Days."@en
+<http://www.w3.org/2000/01/rdf-schema#comment>	"Louis XVIII, surnommé le Désiré — né à Versailles le 17 novembre 1755 sous le nom de Louis Stanislas Xavier de France, et par ailleurs comte de Provence (1755-1795) — fut roi de France et de Navarre de 1814 à 1815 et de 1815 à sa mort, le 16 septembre 1824, à Paris. Il meurt sans descendance, et est inhumé à la basilique Saint-Denis. Son frère, le comte d’Artois, chef des ultras, lui succède sous le nom de Charles X. Louis XVIII est le dernier monarque français à être mort régnant."@fr
+<http://www.w3.org/2000/01/rdf-schema#comment>	"Luigi XVIII di Borbone (Versailles, 17 novembre 1755 – Parigi, 16 settembre 1824) fu re di Francia dal 1814 al 1824.Nipote di Luigi XV, figlio del delfino di Francia Luigi e di Maria Giuseppina di Sassonia, era il fratello minore del re ghigliottinato, Luigi XVI."@it
+<http://www.w3.org/2000/01/rdf-schema#comment>	"Lodewijk XVIII (Kasteel van Versailles, 17 november 1755 – Parijs, 16 september 1824) was van 1814 tot 1824 koning van Frankrijk en Navarra. Hij regeerde vanaf 1814 tot zijn dood in 1824, met een kleine onderbreking in 1815, toen tijdens de Honderd Dagen keizer Napoleon I tijdelijk weer even aan de macht was.Hij was een jongere broer van koning Lodewijk XVI en een oom van koning Lodewijk XVII."@nl
+<http://xmlns.com/foaf/0.1/isPrimaryTopicOf>	<http://en.wikipedia.org/wiki/Louis_XVIII_of_France>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Person>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://xmlns.com/foaf/0.1/Person>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Person>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://wikidata.dbpedia.org/resource/Q5>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2002/07/owl#Thing>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://wikidata.dbpedia.org/resource/Q215627>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Agent>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/BritishRoyalty>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Royalty>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Monarch>
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Family>
+<http://dbpedia.org/property/name>	"Louis XVIII"@en
+<http://dbpedia.org/property/name>	"Louis 18 Of France"@en
+<http://xmlns.com/foaf/0.1/name>	"Louis XVIII"@en
+<http://xmlns.com/foaf/0.1/name>	"Louis 18 Of France"@en
+<http://xmlns.com/foaf/0.1/name>	"Louis Stanislas Xavier de France"@en
+<http://xmlns.com/foaf/0.1/name>	"Louis"@fr
+<http://xmlns.com/foaf/0.1/name>	"Luigi XVIII"@it
+<http://xmlns.com/foaf/0.1/name>	"Luigi XVIII di"@it
+<http://dbpedia.org/property/width>	"220"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/title>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/property/title>	<http://dbpedia.org/resource/Counts_and_dukes_of_Anjou>
+<http://dbpedia.org/property/title>	<http://dbpedia.org/resource/Fils_de_France>
+<http://dbpedia.org/property/title>	<http://dbpedia.org/resource/Counts_and_Dukes_of_Anjou>
+<http://dbpedia.org/property/title>	"King of France and Navarre"@en
+<http://dbpedia.org/property/title>	"King of the French"@en
+<http://dbpedia.org/property/title>	"Co-Prince of Andorra"@en
+<http://dbpedia.org/property/shortDescription>	"King of France"@en
+<http://dbpedia.org/property/dateOfBirth>	"1755-11-17"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/placeOfBirth>	"Palace of Versailles, France"@en
+<http://dbpedia.org/property/dateOfDeath>	"1824-09-16"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/placeOfDeath>	"Paris, France"@en
+<http://purl.org/dc/elements/1.1/description>	"King of France"@en
+<http://purl.org/dc/elements/1.1/description>	"King of France"
+<http://purl.org/dc/elements/1.1/description>	"King of France"^^<http://www.w3.org/2001/XMLSchema#string>
+<http://dbpedia.org/ontology/birthDate>	"1755-11-17"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/ontology/birthYear>	"1755"^^<http://www.w3.org/2001/XMLSchema#gYear>
+<http://dbpedia.org/ontology/birthPlace>	<http://dbpedia.org/resource/Palace_of_Versailles>
+<http://dbpedia.org/ontology/birthPlace>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/ontology/birthPlace>	<http://dbpedia.org/resource/Versailles_(city)>
+<http://dbpedia.org/ontology/deathYear>	"1824"^^<http://www.w3.org/2001/XMLSchema#gYear>
+<http://dbpedia.org/ontology/deathPlace>	<http://dbpedia.org/resource/Paris>
+<http://dbpedia.org/ontology/deathPlace>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/ontology/deathPlace>	<http://dbpedia.org/resource/Louvre_Palace>
+<http://dbpedia.org/ontology/deathDate>	"1824-09-16"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/years>	"--07-07"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/years>	"--06-08"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/years>	"1774"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/years>	"--04-11"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/years>	"1771"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/years>	"--03-20"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/predecessor>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/property/predecessor>	<http://dbpedia.org/resource/Napoleon_I>
+<http://dbpedia.org/property/predecessor>	"As Emperor of the French."@en
+<http://dbpedia.org/property/successor>	<http://dbpedia.org/resource/Charles_X_of_France>
+<http://dbpedia.org/property/birthDate>	"1755-11-17"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/birthPlace>	"Palace of Versailles, France"@en
+<http://dbpedia.org/property/deathDate>	"1824-09-16"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/deathPlace>	"Louvre Palace, Paris, France"@en
+<http://dbpedia.org/property/spouse>	<http://dbpedia.org/resource/Marie_Jos%C3%A9phine_of_Savoy>
+<http://dbpedia.org/property/religion>	<http://dbpedia.org/resource/Catholic_Church>
+<http://dbpedia.org/property/religion>	<http://dbpedia.org/resource/Roman_Catholicism>
+<http://dbpedia.org/property/signature>	"Signature of Louis Stanislas Xavier of France in 1792.jpg"@en
+<http://dbpedia.org/property/commons>	"Category:Louis XVIII of France"@fr
+<http://dbpedia.org/ontology/office>	"Re di Francia"
+<http://dbpedia.org/ontology/office>	"Pretendente al trono di Francia"
+<http://dbpedia.org/ontology/office>	"Linea di successione al trono di Francia"
+<http://dbpedia.org/ontology/office>	"Fils de France"
+<http://dbpedia.org/ontology/office>	"Duca di Angiò"
+<http://dbpedia.org/ontology/office>	"Koning van Frankrijk"
+<http://dbpedia.org/ontology/office>	"'Co-vorst van Andorra"
+<http://dbpedia.org/ontology/successor>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/ontology/successor>	<http://dbpedia.org/resource/Charles_X_of_France>
+<http://dbpedia.org/ontology/successor>	<http://dbpedia.org/resource/Louis_XVII_of_France>
+<http://dbpedia.org/ontology/successor>	<http://dbpedia.org/resource/Jaime,_Duke_of_Madrid>
+<http://dbpedia.org/ontology/restingPlace>	<http://dbpedia.org/resource/Basilica_of_St_Denis>
+<http://dbpedia.org/ontology/restingPlace>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/ontology/restingPlace>	<http://dbpedia.org/resource/Basilica_of_Saint_Denis>
+<http://dbpedia.org/ontology/spouse>	<http://dbpedia.org/resource/Marie_Jos%C3%A9phine_of_Savoy>
+<http://xmlns.com/foaf/0.1/surname>	"Borbone"@it
+<http://dbpedia.org/property/isbn>	"2"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/isbn>	"978"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/isbn>	"0978-02-07"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/isbn>	"0978-02-08"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/isbn>	"1405040823"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/id>	"28919"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/id>	"Lever"@fr
+<http://dbpedia.org/property/id>	"Mansel"@fr
+<http://dbpedia.org/property/id>	"Bertier"@fr
+<http://dbpedia.org/property/id>	"Waresquiel-2008"@fr
+<http://dbpedia.org/ontology/activeYearsStartYear>	"1795"^^<http://www.w3.org/2001/XMLSchema#gYear>
+<http://dbpedia.org/ontology/activeYearsEndYear>	"1795"^^<http://www.w3.org/2001/XMLSchema#gYear>
+<http://dbpedia.org/ontology/birthName>	"Louis Stanislas Xavier de France"@fr
+<http://dbpedia.org/ontology/residence>	<http://dbpedia.org/resource/Tuileries_Palace>
+<http://dbpedia.org/ontology/residence>	<http://dbpedia.org/resource/Hartwell_House,_Buckinghamshire>
+<http://dbpedia.org/ontology/residence>	<http://dbpedia.org/resource/Jelgava_Palace>
+<http://dbpedia.org/property/reason>	<http://dbpedia.org/resource/French_Revolution>
+<http://dbpedia.org/property/reason>	<http://dbpedia.org/resource/Bourbon_Restoration>
+<http://dbpedia.org/property/reason>	<http://dbpedia.org/resource/Hundred_Days>
+<http://dbpedia.org/property/reason>	"Became king"@en
+<http://dbpedia.org/property/reason>	"Regained title"@en
+<http://dbpedia.org/property/position>	"left"@en
+<http://dbpedia.org/property/before>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/property/before>	<http://dbpedia.org/resource/Napoleon_I_of_France>
+<http://dbpedia.org/property/before>	<http://dbpedia.org/resource/Napoleon_II>
+<http://dbpedia.org/property/after>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/property/after>	<http://dbpedia.org/resource/Napoleon_I_of_France>
+<http://dbpedia.org/property/bnf>	"34030787"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/bnf>	"38914263"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/bnf>	"30302815m"@fr
+<http://dbpedia.org/property/bnf>	"35134288m"@fr
+<http://dbpedia.org/property/bnf>	"30729806"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/bnf>	"31279617"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/bnf>	"31620069"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/bnf>	"34189081"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/bnf>	"329425079"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/bnf>	"351736780"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/succession>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/property/reign>	"--06-11"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/reign>	"--04-11"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/reign>	"--07-08"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/reign>	"--03-20"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/reign>	"1824-09-16"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/fullName>	"Louis Stanislas Xavier de France"@en
+<http://dbpedia.org/property/house>	<http://dbpedia.org/resource/House_of_Bourbon>
+<http://dbpedia.org/property/father>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729%E2%80%931765)>
+<http://dbpedia.org/property/father>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729-1765)>
+<http://dbpedia.org/property/mother>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony,_Dauphine_of_France>
+<http://dbpedia.org/property/mother>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony_(1731%E2%80%931767)>
+<http://dbpedia.org/ontology/predecessor>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/ontology/predecessor>	<http://dbpedia.org/resource/Napoleon_I>
+<http://dbpedia.org/ontology/predecessor>	<http://dbpedia.org/resource/Louis_XVI_of_France>
+<http://dbpedia.org/ontology/predecessor>	<http://dbpedia.org/resource/Philippe_I,_Duke_of_Orl%C3%A9ans>
+<http://dbpedia.org/ontology/predecessor>	<http://dbpedia.org/resource/Napoleon_II>
+<http://dbpedia.org/ontology/predecessor>	<http://dbpedia.org/resource/Louis_XVII_of_France>
+<http://dbpedia.org/ontology/parent>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony,_Dauphine_of_France>
+<http://dbpedia.org/ontology/parent>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony_(1731%E2%80%931767)>
+<http://dbpedia.org/ontology/parent>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729%E2%80%931765)>
+<http://dbpedia.org/ontology/parent>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729-1765)>
+<http://dbpedia.org/property/placeOfBurial>	"Basilica of Saint Denis, France"@en
+<http://dbpedia.org/property/header>	"Gold coin of Louis XVIII, struck 1815"@en
+<http://dbpedia.org/property/wikisource>	"Auteur:Louis XVIII"@fr
+<http://dbpedia.org/property/as>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/property/captionLeft>	"Obverse:  LOUIS XVIII, ROI DE FRANCE, in English: \"Louis XVIII, King of France\""@en
+<http://dbpedia.org/property/captionRight>	"Reverse:  PIECE DE 20 FRANCS, 1815, in English: \"20 Franc Piece, 1815.\""@en
+<http://dbpedia.org/property/margin>	"0"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/collection>	"Tempus"@fr
+<http://dbpedia.org/property/collection>	"Folio Histoire"@fr
+<http://dbpedia.org/property/collection>	"Le Temps retrouvé"@fr
+<http://dbpedia.org/ontology/name>	"Lodewijk XVIII"@nl
+<http://dbpedia.org/property/charte>	"Monarque"@fr
+<http://dbpedia.org/property/nom>	"Louis"@fr
+<http://dbpedia.org/property/nom>	"Walter"@fr
+<http://dbpedia.org/property/nom>	"Teyssier"@fr
+<http://dbpedia.org/property/nom>	"Lever"@fr
+<http://dbpedia.org/property/nom>	"Louis XVIII de France"@fr
+<http://dbpedia.org/property/nom>	"Price"@fr
+<http://dbpedia.org/property/nom>	"Mansel"@fr
+<http://dbpedia.org/property/nom>	"Girault de Coursac"@fr
+<http://dbpedia.org/property/nom>	"Bordonove"@fr
+<http://dbpedia.org/property/nom>	"de La Croix de Castries"@fr
+<http://dbpedia.org/property/nom>	"Lafue"@fr
+<http://dbpedia.org/property/nom>	"Ernest Daudet"@fr
+<http://dbpedia.org/property/nom>	"de Poli"@fr
+<http://dbpedia.org/property/nom>	"Démier"@fr
+<http://dbpedia.org/property/nom>	"de Waresquiel"@fr
+<http://dbpedia.org/property/nom>	"Yvert"@fr
+<http://dbpedia.org/property/nom>	"de Bertier de Sauvigny"@fr
+<http://dbpedia.org/property/nom>	"Cartron"@fr
+<http://dbpedia.org/property/nom>	"Becquet"@fr
+<http://dbpedia.org/property/nom>	"Hillerin"@fr
+<http://dbpedia.org/property/nom>	"Bonafé"@fr
+<http://dbpedia.org/property/nom>	"de Villepin"@fr
+<http://dbpedia.org/property/nom>	"de Lévis"@fr
+<http://dbpedia.org/property/nom>	"de Besenval"@fr
+<http://dbpedia.org/property/nom>	"de Boigne"@fr
+<http://dbpedia.org/property/nom>	"de Saint-Aulaire"@fr
+<http://dbpedia.org/property/nom>	"de France"@fr
+<http://dbpedia.org/property/nom>	"de Lamothe-Langon"@fr
+<http://dbpedia.org/property/nome>	"Luigi XVIII"@it
+<http://dbpedia.org/property/nome>	"Luigi XVIII di"@it
+<http://dbpedia.org/property/titre>	"Mémoires"@fr
+<http://dbpedia.org/property/titre>	"Louis XVIII"@fr
+<http://dbpedia.org/property/titre>	"Charles X"@fr
+<http://dbpedia.org/property/titre>	"Cent-Jours"@fr
+<http://dbpedia.org/property/titre>	"Les deux frères de Louis XVI"@fr
+<http://dbpedia.org/property/titre>	"Louis XVIII le Désiré"@fr
+<http://dbpedia.org/property/titre>	"Le comte de Provence, frère du roi, « régent » de France, roi des émigrés"@fr
+<http://dbpedia.org/property/titre>	"Louis XVIII et le duc Decazes"@fr
+<http://dbpedia.org/property/titre>	"La France de la Restauration : l’impossible retour du passé"@fr
+<http://dbpedia.org/property/titre>	"The Perilous Crown : France between Revolutions"@fr
+<http://dbpedia.org/property/titre>	"Histoire de la Restauration : naissance de la France moderne"@fr
+<http://dbpedia.org/property/titre>	"La Restauration"@fr
+<http://dbpedia.org/property/titre>	"Louis XIX, celui qui fut roi vingt minutes"@fr
+<http://dbpedia.org/property/titre>	"Marie-Thérèse de France : l’orpheline du Temple"@fr
+<http://dbpedia.org/property/titre>	"La duchesse de Berry : l’oiseau rebelle des Bourbons"@fr
+<http://dbpedia.org/property/titre>	"Louis-Philippe : le dernier roi des Français"@fr
+<http://dbpedia.org/property/titre>	"Le duc de Richelieu"@fr
+<http://dbpedia.org/property/titre>	"Talleyrand"@fr
+<http://dbpedia.org/property/titre>	"Élie, duc Decazes"@fr
+<http://dbpedia.org/property/titre>	"Les Cent-Jours ou L’esprit de sacrifice"@fr
+<http://dbpedia.org/property/titre>	"Souvenirs-portraits"@fr
+<http://dbpedia.org/property/titre>	"Mémoires du baron de Besenval sur la cour de France"@fr
+<http://dbpedia.org/property/titre>	"Mémoires de la comtesse de Boigne"@fr
+<http://dbpedia.org/property/titre>	"Comte de Saint-Aulaire. Souvenirs"@fr
+<http://dbpedia.org/property/titre>	"Journal de la duchesse d’Angoulême"@fr
+<http://dbpedia.org/property/titre>	"Mémoires d’une femme de qualité sur Louis XVIII, sa cour et son règne"@fr
+<http://dbpedia.org/property/langue>	"en"@fr
+<http://dbpedia.org/property/lireEnLigne>	<http://books.google.fr/books?id=GxUoAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Pierre-Victor+Besenval+(baron+de)%22&hl=fr&sa=X&ei=RlaeUKeoHvKR0QW2_ICwCA&ved=0CDQQ6AEwAQ#v=onepage&q&f=false>
+<http://dbpedia.org/property/lireEnLigne>	"http://gallica.bnf.fr/Search?adva=1&adv=1&tri=title_sort&t_relation=%22Notice+d%27ensemble+%3A+http%3A%2F%2Fcatalogue.bnf.fr%2Fark%3A%2F12148%2Fcb38914263n%22&q=M%C3%A9moires+de+Louis+XVIII&lang=fr"@fr
+<http://dbpedia.org/property/immagine>	"Legion Honneur GC ribbon.svg"@it
+<http://dbpedia.org/property/immagine>	"Ordine della giarrettiera nastrino.png"@it
+<http://dbpedia.org/property/immagine>	"Ord.Aquilanera.png"@it
+<http://dbpedia.org/property/immagine>	"Grand Royal Coat of Arms of France.svg"@it
+<http://dbpedia.org/property/immagine>	"Ordre de Saint-Michel Chevalier ribbon.svg"@it
+<http://dbpedia.org/property/immagine>	"Ordre du Saint-Esprit Chevalier ribbon.svg"@it
+<http://dbpedia.org/property/immagine>	"Ordre Royal et Militaire de Saint-Louis Chevalier ribbon.svg"@it
+<http://dbpedia.org/property/immagine>	"Blason France moderne.svg"@it
+<http://dbpedia.org/property/immagine>	"MaternitàInfanzia.png"@it
+<http://dbpedia.org/property/immagine>	"Louis 18 robes.jpg"@it
+<http://dbpedia.org/property/immagine>	"Pavillon royal de France.svg"@it
+<http://dbpedia.org/property/immagine>	"Blason duche fr Anjou .svg"@it
+<http://dbpedia.org/property/legenda>	"Ritratto di Luigi XVIII in vesti dell'incoronazione, di Robert Lefèvre"@it
+<http://dbpedia.org/property/precedente>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/property/precedente>	<http://dbpedia.org/resource/Louis_XVI_of_France>
+<http://dbpedia.org/property/precedente>	<http://dbpedia.org/resource/Philippe_I,_Duke_of_Orl%C3%A9ans>
+<http://dbpedia.org/property/precedente>	<http://dbpedia.org/resource/Louis_XVII_of_France>
+<http://dbpedia.org/property/precedente>	"Re precedente: Luigi XVI nel 1792"@it
+<http://dbpedia.org/property/precedente>	"Cento giorni"@it
+<http://dbpedia.org/property/precedente>	"Poi sovrano col nome di Luigi XVI"@it
+<http://dbpedia.org/property/precedente>	"Vacante dal 1701"@it
+<http://dbpedia.org/property/precedente>	"Era Re"@it
+<http://dbpedia.org/property/nomeCompleto>	"Louis Stanislas Xavier de France"@it
+<http://dbpedia.org/property/lieuDeNaissance>	"Versailles"@fr
+<http://dbpedia.org/property/cognome>	"Borbone"@it
+<http://dbpedia.org/property/fonction>	"Roi de France et de Navarre"@fr
+<http://dbpedia.org/property/fonction>	"Prétendant aux trônes de France et de Navarre"@fr
+<http://dbpedia.org/property/conjoint>	<http://dbpedia.org/resource/Marie_Jos%C3%A9phine_of_Savoy>
+<http://dbpedia.org/property/sesso>	"M"@it
+<http://dbpedia.org/property/aPartirDuFonction>	"1815-07-08"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/aPartirDuFonction>	"1815-03-20"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/aPartirDuFonction>	"1795-06-08"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/aPartirDuFonction>	"1814-04-06"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/jusqu'auFonction>	"1815-07-08"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/jusqu'auFonction>	"1815-03-20"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/jusqu'auFonction>	"1824-09-16"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/jusqu'auFonction>	"1814-04-06"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/categorie>	"no"@it
+<http://dbpedia.org/property/luogonascita>	"Versailles"@it
+<http://dbpedia.org/property/prénom>	"Gérard"@fr
+<http://dbpedia.org/property/prénom>	"Pierre"@fr
+<http://dbpedia.org/property/prénom>	"Félix"@fr
+<http://dbpedia.org/property/prénom>	"Louis"@fr
+<http://dbpedia.org/property/prénom>	"Francis"@fr
+<http://dbpedia.org/property/prénom>	"Georges"@fr
+<http://dbpedia.org/property/prénom>	"René"@fr
+<http://dbpedia.org/property/prénom>	"Philip"@fr
+<http://dbpedia.org/property/prénom>	"Dominique"@fr
+<http://dbpedia.org/property/prénom>	"Guillaume"@fr
+<http://dbpedia.org/property/prénom>	"Arnaud"@fr
+<http://dbpedia.org/property/prénom>	"Laure"@fr
+<http://dbpedia.org/property/prénom>	"Emmanuel"@fr
+<http://dbpedia.org/property/prénom>	"Hélène"@fr
+<http://dbpedia.org/property/prénom>	"Marie-Thérèse"@fr
+<http://dbpedia.org/property/prénom>	"Benoît"@fr
+<http://dbpedia.org/property/prénom>	"Évelyne"@fr
+<http://dbpedia.org/property/prénom>	"Oscar"@fr
+<http://dbpedia.org/property/prénom>	"Munro"@fr
+<http://dbpedia.org/property/prénom>	"Paul et Pierrette"@fr
+<http://dbpedia.org/property/prénom>	"Michel-Bernard"@fr
+<http://dbpedia.org/property/prénom>	"Pierre-Marc-Gaston"@fr
+<http://dbpedia.org/property/prénom>	"Pierre-Victor"@fr
+<http://dbpedia.org/property/prénom>	"Adèle"@fr
+<http://dbpedia.org/property/prénom>	"Étienne-Léon"@fr
+<http://dbpedia.org/property/lieu>	<http://dbpedia.org/resource/London>
+<http://dbpedia.org/property/lieu>	<http://dbpedia.org/resource/Paris>
+<http://dbpedia.org/property/lieu>	<http://dbpedia.org/resource/Tulle>
+<http://dbpedia.org/property/éditeur>	"Flammarion"@fr
+<http://dbpedia.org/property/éditeur>	"Pygmalion"@fr
+<http://dbpedia.org/property/éditeur>	"Fayard"@fr
+<http://dbpedia.org/property/éditeur>	"Gallimard"@fr
+<http://dbpedia.org/property/éditeur>	"Payot"@fr
+<http://dbpedia.org/property/éditeur>	"Perrin"@fr
+<http://dbpedia.org/property/éditeur>	"Hachette"@fr
+<http://dbpedia.org/property/éditeur>	"Mercure de France"@fr
+<http://dbpedia.org/property/éditeur>	"Macmillan"@fr
+<http://dbpedia.org/property/éditeur>	"Les Éditions de France"@fr
+<http://dbpedia.org/property/éditeur>	"A. Michel"@fr
+<http://dbpedia.org/property/éditeur>	"F.-X. de Guibert"@fr
+<http://dbpedia.org/property/éditeur>	"France Loisirs"@fr
+<http://dbpedia.org/property/éditeur>	"E. Plon, Nourrit et"@fr
+<http://dbpedia.org/property/éditeur>	"Bureaux de la Civilisation"@fr
+<http://dbpedia.org/property/éditeur>	"Via Romana"@fr
+<http://dbpedia.org/property/éditeur>	"Maugein"@fr
+<http://dbpedia.org/property/éditeur>	"C. Lévy"@fr
+<http://dbpedia.org/property/éditeur>	"F. Didot"@fr
+<http://dbpedia.org/property/éditeur>	"L. Hauman"@fr
+<http://dbpedia.org/property/éditeur>	"Mame et Delaunay-Vallée"@fr
+<http://dbpedia.org/property/année>	"2003"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1986"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2008"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2009"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1999"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2007"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2012"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2010"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1993"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1987"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1950"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2001"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1991"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2004"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1829"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1832"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1969"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1880"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1893"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1926"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1988"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1944"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1973"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1990"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"2002"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/année>	"1899"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/légende>	"Portrait de Louis  en habits de sacre,"@fr
+<http://dbpedia.org/property/légende>	"par François Gérard, ."@fr
+<http://dbpedia.org/property/commonsTitre>	"Louis XVIII de France"@fr
+<http://dbpedia.org/property/sousTitre>	"dernier roi de France et de Navarre"@fr
+<http://dbpedia.org/property/sousTitre>	"mémoires de Louis-Antoine d’Artois, duc d’Angoulême"@fr
+<http://dbpedia.org/property/sousTitre>	"un sentimental en politique"@fr
+<http://dbpedia.org/property/sousTitre>	"le prince immobile"@fr
+<http://dbpedia.org/property/sousTitre>	"homme d’État et franc-maçon"@fr
+<http://dbpedia.org/property/sousTitre>	"la tentation de l’impossible"@fr
+<http://dbpedia.org/property/pagesTotales>	"167"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"597"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"634"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"486"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"498"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"313"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"1091"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"360"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"144"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"356"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"432"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"436"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"450"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"413"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"495"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"506"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"318"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"462"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"576"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"311"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"541"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"435"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"522"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"687"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"414"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/pagesTotales>	"1095"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/ontology/thumbnailCaption>	"Portrait de Louis  en habits de sacre,"
+<http://dbpedia.org/ontology/thumbnailCaption>	"par François Gérard, ."
+<http://dbpedia.org/property/wikisourceTitre>	"Louis XVIII de France"@fr
+<http://dbpedia.org/property/naissance>	"1755-11-17"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/lienAuteur>	"Louis de Sainte-Aulaire"@fr
+<http://dbpedia.org/property/lienAuteur>	"René de La Croix de Castries"@fr
+<http://dbpedia.org/property/lienAuteur>	"Marie-Thérèse de France"@fr
+<http://dbpedia.org/property/lienAuteur>	"Pierre-Marc-Gaston de Lévis"@fr
+<http://dbpedia.org/property/lienAuteur>	"Ernest Daudet"@fr
+<http://dbpedia.org/property/lienAuteur>	"Paul et Pierrette Girault de Coursac"@fr
+<http://dbpedia.org/property/lienAuteur>	"Georges Bordonove"@fr
+<http://dbpedia.org/property/lienAuteur>	"Évelyne Lever"@fr
+<http://dbpedia.org/property/lienAuteur>	"Gérard Walter"@fr
+<http://dbpedia.org/property/lienAuteur>	"Pierre Lafue"@fr
+<http://dbpedia.org/property/lienAuteur>	"Emmanuel de Waresquiel"@fr
+<http://dbpedia.org/property/lienAuteur>	"Benoît Yvert"@fr
+<http://dbpedia.org/property/lienAuteur>	"Guillaume de Bertier de Sauvigny"@fr
+<http://dbpedia.org/property/lienAuteur>	"Arnaud Teyssier"@fr
+<http://dbpedia.org/property/lienAuteur>	"Dominique de Villepin"@fr
+<http://dbpedia.org/property/lienAuteur>	"Pierre Victor de Besenval de Brünstatt"@fr
+<http://dbpedia.org/property/lienAuteur>	"Adèle d'Osmond"@fr
+<http://dbpedia.org/property/lienAuteur>	"Étienne-Léon de Lamothe-Langon"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Pygmalion"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Fayard"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Payot"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Plon"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Éditions Gallimard"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Groupe Flammarion"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Mercure de France"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Éditions Albin Michel"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Hachette Livre"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Éditions Perrin"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Firmin Didot"@fr
+<http://dbpedia.org/property/lienÉditeur>	"France Loisirs"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Via Romana"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Maugein"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Éditions François-Xavier de Guibert"@fr
+<http://dbpedia.org/property/lienÉditeur>	"Macmillan Publishers"@fr
+<http://dbpedia.org/property/traducteur>	"de l’anglais par Denise Meunier"@fr
+<http://dbpedia.org/property/préface>	<http://dbpedia.org/resource/Fran%C3%A7ois_Furet>
+<http://dbpedia.org/property/réimpression>	"1997"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/lieuDeDécès>	"Paris"@fr
+<http://dbpedia.org/property/annéePremièreÉdition>	"1930"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/annéePremièreÉdition>	"1955"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/annéePremièreÉdition>	"1813"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/periode>	"1814"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/père>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729%E2%80%931765)>
+<http://dbpedia.org/property/père>	"dauphin de France"@fr
+<http://dbpedia.org/property/mère>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony,_Dauphine_of_France>
+<http://dbpedia.org/property/nomNaissance>	"Louis Stanislas Xavier de France"@fr
+<http://dbpedia.org/property/successeur>	<http://dbpedia.org/resource/Charles_X_of_France>
+<http://dbpedia.org/property/successeur>	"Lui-même"@fr
+<http://dbpedia.org/property/successeur>	"Charles X"@fr
+<http://dbpedia.org/property/successeur>	"Napoléon"@fr
+<http://dbpedia.org/property/prédécesseur>	<http://dbpedia.org/resource/Louis_XVII_of_France>
+<http://dbpedia.org/property/prédécesseur>	"Lui-même"@fr
+<http://dbpedia.org/property/prédécesseur>	"Napoléon"@fr
+<http://dbpedia.org/property/présidentDuConseil>	<http://dbpedia.org/resource/Charles_Maurice_de_Talleyrand-P%C3%A9rigord>
+<http://dbpedia.org/property/présidentDuConseil>	<http://dbpedia.org/resource/Armand-Emmanuel_de_Vignerot_du_Plessis,_Duc_de_Richelieu>
+<http://dbpedia.org/property/présidentDuConseil>	<http://dbpedia.org/resource/%C3%89lie,_duc_Decazes>
+<http://dbpedia.org/property/présidentDuConseil>	<http://dbpedia.org/resource/Jean-Joseph,_Marquis_Dessolles>
+<http://dbpedia.org/property/présidentDuConseil>	"Comte de Villèle"@fr
+<http://dbpedia.org/property/résidence>	<http://dbpedia.org/resource/Tuileries_Palace>
+<http://dbpedia.org/property/résidence>	<http://dbpedia.org/resource/Hartwell_House,_Buckinghamshire>
+<http://dbpedia.org/property/résidence>	<http://dbpedia.org/resource/Jelgava_Palace>
+<http://dbpedia.org/property/emblème>	"Coat of Arms of the Bourbon Restoration .svg"@fr
+<http://dbpedia.org/property/liste>	"Rois de France et de Navarre"@fr
+<http://dbpedia.org/property/décès>	"1824-09-16"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/soustTitre>	"portrait d’un roi"@fr
+<http://dbpedia.org/ontology/period>	<http://dbpedia.org/resource/1814>
+<http://dbpedia.org/ontology/competitionTitle>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/property/titolo>	"Re di Francia e Navarra"@it
+<http://dbpedia.org/property/forzaordinamento>	"Luigi 18 di Francia"@it
+<http://dbpedia.org/property/giornomesenascita>	"--11-17"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/annonascita>	"1755"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/luogomorte>	"Parigi"@it
+<http://dbpedia.org/property/giornomesemorte>	"--09-16"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/annomorte>	"1824"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/regno>	"--07-08"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/regno>	"--04-06"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/carica>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/property/carica>	<http://dbpedia.org/resource/Fils_de_France>
+<http://dbpedia.org/property/carica>	<http://dbpedia.org/resource/History_of_the_French_line_of_succession>
+<http://dbpedia.org/property/periodo>	"--06-08"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/periodo>	"1774"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/periodo>	"--07-08"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/periodo>	"1771"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/periodo>	"--03-20"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/periodo>	"--04-06"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/periodo>	"--05-10"^^<http://www.w3.org/2001/XMLSchema#gMonthDay>
+<http://dbpedia.org/property/periodo>	"Erede presunto"@it
+<http://dbpedia.org/property/periodo>	"Monsieur"@it
+<http://dbpedia.org/property/periodo>	"Per causa della Rivoluzione francese"@it
+<http://dbpedia.org/property/periodo>	"Regno dei Cento giorni"@it
+<http://dbpedia.org/property/successivo>	<http://dbpedia.org/resource/Napoleon>
+<http://dbpedia.org/property/successivo>	<http://dbpedia.org/resource/Charles_X_of_France>
+<http://dbpedia.org/property/successivo>	<http://dbpedia.org/resource/Louis_XVII_of_France>
+<http://dbpedia.org/property/successivo>	"Cento giorni"@it
+<http://dbpedia.org/property/successivo>	"Sovrano presunto col nome di Luigi XVII"@it
+<http://dbpedia.org/property/successivo>	"Poi sovrano col nome di Carlo X"@it
+<http://dbpedia.org/property/successivo>	"Vacante dal 1790"@it
+<http://dbpedia.org/property/successivo>	"Poi Giacomo Pio di Borbone-Spagna"@it
+<http://dbpedia.org/property/successivo>	"Diventa Re"@it
+<http://dbpedia.org/property/predecessore>	<http://dbpedia.org/resource/Napoleon_II>
+<http://dbpedia.org/property/successore>	<http://dbpedia.org/resource/Charles_X_of_France>
+<http://dbpedia.org/property/consorte>	<http://dbpedia.org/resource/Marie_Jos%C3%A9phine_of_Savoy>
+<http://dbpedia.org/property/dataDiNascita>	"1755-11-17"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/dataDiMorte>	"1824-09-16"^^<http://www.w3.org/2001/XMLSchema#date>
+<http://dbpedia.org/property/nomeOnorificenza>	"Cavaliere dell'Ordine della Giarrettiera"@it
+<http://dbpedia.org/property/nomeOnorificenza>	"Cavaliere dell'Ordine dell'Aquila Nera"@it
+<http://dbpedia.org/property/nomeOnorificenza>	"Gran Maestro dell'Ordine della Legion d'Onore"@it
+<http://dbpedia.org/property/nomeOnorificenza>	"Gran Maestro dell'Ordine di San Michele"@it
+<http://dbpedia.org/property/nomeOnorificenza>	"Gran Maestro dell'Ordine dello Spirito Santo"@it
+<http://dbpedia.org/property/nomeOnorificenza>	"Gran Maestro dell'Ordine di San Luigi"@it
+<http://dbpedia.org/property/nomeOnorificenza>	"Gran Maestro dell'Ordine del Giglio"@it
+<http://dbpedia.org/property/collegamentoOnorificenza>	"Legion d'Onore"@it
+<http://dbpedia.org/property/collegamentoOnorificenza>	"Ordine della Giarrettiera"@it
+<http://dbpedia.org/property/collegamentoOnorificenza>	"Ordine dell'Aquila Nera"@it
+<http://dbpedia.org/property/collegamentoOnorificenza>	"Ordine di San Michele"@it
+<http://dbpedia.org/property/collegamentoOnorificenza>	"Ordine dello Spirito Santo"@it
+<http://dbpedia.org/property/collegamentoOnorificenza>	"Ordine di San Luigi"@it
+<http://dbpedia.org/property/collegamentoOnorificenza>	"Ordine del Giglio"@it
+<http://dbpedia.org/property/tipologia>	"regnante"@it
+<http://dbpedia.org/property/tipologia>	"pretendente al trono"@it
+<http://dbpedia.org/property/tipologia>	"precedenza titoli nobiliari"@it
+<http://dbpedia.org/property/tipologia>	"titolo nobiliare"@it
+<http://dbpedia.org/property/stemma>	"Royal Monogram of King Louis XVIII of France.svg"@it
+<http://dbpedia.org/property/fineincipit>	"fu re di Francia dal 1814 al 1824"@it
+<http://dbpedia.org/property/padre>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729%E2%80%931765)>
+<http://dbpedia.org/property/madre>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony,_Dauphine_of_France>
+<http://dbpedia.org/property/luogoDiNascita>	<http://dbpedia.org/resource/France>
+<http://dbpedia.org/property/luogoDiNascita>	<http://dbpedia.org/resource/Versailles_(city)>
+<http://dbpedia.org/property/luogoDiMorte>	<http://dbpedia.org/resource/France>
+<http://dbpedia.org/property/luogoDiMorte>	<http://dbpedia.org/resource/Paris>
+<http://dbpedia.org/property/luogoDiSepoltura>	<http://dbpedia.org/resource/France>
+<http://dbpedia.org/property/luogoDiSepoltura>	<http://dbpedia.org/resource/Basilica_of_St_Denis>
+<http://dbpedia.org/property/altrititoli>	<http://dbpedia.org/resource/Anjou>
+<http://dbpedia.org/property/casaReale>	<http://dbpedia.org/resource/House_of_Bourbon>
+<http://dbpedia.org/property/naam>	"Lodewijk XVIII"@nl
+<http://dbpedia.org/property/afbeelding>	"Lodewijk XVIII.jpg"@nl
+<http://dbpedia.org/property/functie>	<http://dbpedia.org/resource/List_of_French_monarchs>
+<http://dbpedia.org/property/opvolger>	<http://dbpedia.org/resource/Charles_X_of_France>
+<http://dbpedia.org/property/leven>	"1755"^^<http://www.w3.org/2001/XMLSchema#integer>
+<http://dbpedia.org/property/voorganger>	<http://dbpedia.org/resource/Napoleon_II>
+<http://dbpedia.org/property/voorganger>	"maar in eigen ogen begon zijn regering in 1795 na de dood van Lodewijk XVII"@nl
+<http://dbpedia.org/property/vader>	<http://dbpedia.org/resource/Louis,_Dauphin_of_France_(1729%E2%80%931765)>
+<http://dbpedia.org/property/moeder>	<http://dbpedia.org/resource/Maria_Josepha_of_Saxony,_Dauphine_of_France>

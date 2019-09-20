@@ -1,0 +1,97 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{I\hspace {1em}基础知识}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}知识图谱概述}{7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}什么是知识图谱}{7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}知识图谱由来与发展}{9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}知识图谱的数据模型与查询语言}{15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}知识图谱的价值}{18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}知识图谱的应用}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.1}基于金融知识图谱的股权分析}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.2}基于医疗知识图谱的辅助诊断}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.3}基于知识图谱的智能问答}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}知识图谱管理所使用的背景知识}{21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}图论}{21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}图的基本定义}{21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}图遍历问题}{24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{宽度优先遍历}{25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{深度优先遍历}{25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}子图匹配问题}{26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}数据库}{26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}知识图谱的数据模型---RDF\& OWL}{29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}RDF数据三元组模型}{29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}RDF数据三元组模型}{31}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{三元组}{31}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{资源标识符}{32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{文字}{32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{空白节点}{33}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{IRIs替换空白节点}{33}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{图形比较}{34}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}RDF数据模型}{34}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}OWL简介}{35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}常见的RDF知识图谱数据集合}{36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}常见中文知识图谱数据集}{36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}常见外文知识图谱数据集}{37}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}知识图谱的查询语言---SPARQL}{39}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}SPARQL简介}{39}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}IRI}{40}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}SPARQL语法中的文字表示}{40}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}SPARQL操作符}{41}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}SPARQL 1.1上的高级运算符}{41}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{II\hspace {1em}知识图谱构建}{43}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{III\hspace {1em}知识图谱管理}{45}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}知识图谱数据管理技术基础}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}基于关系数据库技术的知识图谱管理系统}{49}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}基于图数据库技术的知识图谱管理系统}{53}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{IV\hspace {1em}应用案例}{55}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}图数据库系统gStore使用基础}{57}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}金融知识图谱应用案例}{59}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}医疗知识图谱应用案例}{61}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}智能机器人中知识图谱应用案例}{63}% 

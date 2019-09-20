@@ -1,0 +1,93 @@
+\documentclass[UTF8]{book}
+\usepackage{ctex}
+\usepackage{amsmath}
+\usepackage{txfonts}
+\usepackage{amssymb}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{epsfig,tabularx,amssymb,amsmath,subfigure,multirow}
+%\usepackage{algorithmic}
+\usepackage[linesnumbered,ruled,noend]{algorithm2e}
+\usepackage[noend]{algorithmic}
+\usepackage{multirow}
+\usepackage{graphicx,floatrow}
+\usepackage{listings}
+\usepackage{threeparttable}
+\usepackage[T1]{fontenc}
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{filecontents}
+\usepackage[style=numeric,backend=bibtex]{biblatex}
+
+\newcommand{\nop}[1]{}
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+\newtheorem{definition}{定义}[chapter]
+\newtheorem{proposition}[definition]{\hei 命题}
+\newtheorem{assumption}[definition]{\hei 假设}
+\newtheorem{lemma}[definition]{\hei 引理}
+\newtheorem{remark}[definition]{\hei 注}
+%\newtheorem{theorem}{\hei 定理}[chapter]
+\newtheorem{theorem}[definition]{\hei 定理}
+\newtheorem{axiom}{\hei 公理}
+%\newtheorem{algorithm1}[definition]{\hei 算法}
+\newtheorem{corollary}[definition]{\hei 推论}
+
+\newtheorem{proof}{\hei 证明}
+
+\newtheorem{example}{例}[chapter]
+
+\addbibresource{reference.bib}
+
+
+\begin{document}
+
+\title{\huge 知识图谱原理及应用}
+
+\author{彭鹏，邹磊，洪亮}
+
+\date{\today}
+
+\maketitle
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\part{基础知识}
+\input{./body/part1/total-background}
+\input{./body/part1/datasets}
+\input{./body/part1/rdf-background}
+\input{./body/part1/sparql-background}
+
+
+\part{知识图谱构建}
+%\input{./body/part1/construction}
+%\input{./body/part1/quality}
+
+
+\part{知识图谱管理}
+\input{./body/part2/rdf-management}
+\input{./body/part2/relation-system}
+\input{./body/part2/graph-system}
+
+%\input{./body/part2/gStore-advanced}
+
+%\part{分布式版知识图谱管理系统}
+%\input{./body/part3/cloud-system}
+%\input{./body/part3/specialized-system}
+%\input{./body/part3/gStoreD}
+
+\part{应用案例}
+\input{./body/part3/gStore}
+\input{./body/part3/finance}
+\input{./body/part3/medicine}
+\input{./body/part3/robot}
+
+
+
+\printbibliography
+
+\end{document}
+

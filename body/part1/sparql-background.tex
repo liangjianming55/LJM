@@ -1,0 +1,69 @@
+\chapter{知识图谱的查询语言---SPARQL}\label{sec:SPARQLIntroduction}
+\section{SPARQL简介}
+SPARQL是W3C制定的RDF图数据的标准查询语言。SPARQL从语法上借鉴了SQL，同样属于声明式查询语言。SPARQL 1.1是一组规范，提供用于在Web或RDF存储中查询和操作RDF图形内容的语言和协议。最新的SPARQL 1.1版本为有效查询RDF 图而专门设计了三元组模式、子图模式、属性路径等多种查询机制。几乎全部的RDF三元组数据库都实现了 SPARQL语言。SPARQL 提供了强大的基于图形匹配的查询功能，里面的主要功能有:提炼查询结果（ORDER BY, PROJECTION，DISTINCT, REDUCED, OFFSET, LIMIT）、可选匹配 （optional）、值约束条件(filter)、替换匹配、以及直接回答 YES/NO 等其他形式的查询。最简单的图形模式是三元组。
+
+从SPARQL的全称我们可以知道，其由两个部分组成：协议和查询语言。
+
+
+\begin{enumerate}
+  \item 查询语言很好理解，就像SQL用于查询关系数据库中的数据，XQuery用于查询XML数据，SPARQL用于查询RDF数据。
+  \item 协议是指我们可以通过HTTP协议在客户端和SPARQL服务器（SPARQL endpoint）之间传输查询和结果，这也是和其他查询语言最大的区别。
+\end{enumerate}
+
+
+\subsection{IRI}
+SPARQL语言包括IRI，它是省略空格的RDF URI引用的子集。请注意，SPARQL查询中的所有IRI都是绝对的; 它们可能包含也可能不包含片段标识符。IRI包括URI和URL。解析SPARQL语法中的缩写形式（相对IRI和前缀名称）以生成绝对IRI。在SPARQL语言中包括IRIs,它可以用来代替RDF中URIs这样的命名空间。在SPARQL查询中所有的IRIs是绝对的，它们有时包括有时不包括标识符。IRIs包括URIs和URLs。其中表示带前缀的名字,分隔符“<”和“>”不是IRIs的组成部分。
+
+
+
+PREFIX关键字是把前缀标签和IRI（Internationalized Resource Identifiers）连接起来，一个有前缀的名称是由一个带前缀的标签和一个本地的名称所组成中,其中由冒号“:”来分开。这个有前缀的名称可以通过连接IRI的前缀和本地部分来映射到该nu上,这个前缀或本地名称可能是空的。值得注意的是SPARQL的本地名称开头可以是数字,而XML的本地名称则不可。SPARQL本地名称也允许有非字母或数字的符号(如反斜杠ns:id\=123)存在于 IRIs 中。
+
+
+常用的命名空间前缀与IRI的关系如表\ref{table:PrefixMapping}所示。
+
+\begin{table}\label{table:PrefixMapping}
+\caption{常用的命名空间前缀与IRI对应表}
+\begin{tabular}{ll}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \textbf{字首} &\textbf{IRI}\\
+  \hline
+ rdfs: & http://www.w3.org/2000/01/rdf-schema\# \\
+  rdf: & http://www.w3.org/1999/02/22-rdf-syntax-ns\# \\
+ xsd: & http://www.w3.org/2001/XMLSchema\# \\
+  fn: & http://www.w3.org/2005/xpath-functions\# \\
+ sfn: & http://www.w3.org/ns/sparql\# \\
+  \hline
+\end{tabular}
+\end{table}
+
+\subsection{SPARQL语法中的文字表示}
+SPARQL在使用上与其他的语言一样，有自己的语言规范。SPARQL语法共有5部分构成：命名空间（NS）、数据集（RDF Dataset）、查询方式（QF）、图模式（GP）、结果修饰（SM），表\ref{table:QueryParts}显示了以上5部分查询语句的示例。
+
+
+\begin{table}\label{table:QueryParts}
+\caption{查询语句各部分示例}
+\begin{tabular}{ll}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  \textbf{组成部分} &\textbf{示例}\\
+  \hline
+ NS & prefix foaf: <http://xmlns.com/foaf/0.1/> \\
+  RDF Dataset & FROM NAMED  <http://example.org/foaf/bobFoaf> \\
+ QF & SELECT ?name ?mbox \\
+  GP & WHERE  { { ?book dc10:title ?title .  ?book dc10:creator ?author }
+UNION
+{ ?book dc11:title ?title .  ?book dc11:creator ?author }
+}
+ \\
+ SM & ORDER BY ?X \\
+  \hline
+\end{tabular}
+\end{table}
+
+
+语法中的文字(Literals)是包含在双引号或单引号中的字符串(String),它通常伴有一个可选的语义标签(通过@表示),或是一个可选的RI数据类型(通过AA表示)或者一个带前缀的名字。为了方便起见,整数在一般情况下可以接书写而不用附加的数值类型,在运用的时候会被自动解释为xsd:integer这个数据类型。在数字中有小数点而没有指数的十进制数被理解为xsd:decimal类型的文字,如果是带指数的数字会被解释为xsd:double类型,另外,xsd:boolean类型的数值可以直接写为true或false[47]。在文字中包含换行符或者引号或者描述过长的情况下,SPARQL语法允许使用两个或三个单引号来对其描述。表3是对SPARQL语法中的文字的使用的描述。
+
+\section{SPARQL操作符}
+
+\section{SPARQL 1.1上的高级运算符}
